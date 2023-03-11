@@ -1,7 +1,4 @@
-import 'dart:math';
-
-import 'package:animations_flutter/lesson_1.dart';
-import 'package:animations_flutter/lesson_2.dart';
+import 'package:animations_flutter/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,9 +14,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.indigo,
       ),
-      home: const Lesson2(),
+      home: const HomeScreen(),
     );
   }
 }
