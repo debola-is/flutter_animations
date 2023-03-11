@@ -1,4 +1,4 @@
-import 'package:animations_flutter/lesson3.dart';
+import 'package:animations_flutter/lesson_3.dart';
 import 'package:animations_flutter/lesson_1.dart';
 import 'package:animations_flutter/lesson_2.dart';
 import 'package:animations_flutter/lesson_4.dart';
